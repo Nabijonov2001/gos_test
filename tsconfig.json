@@ -14,8 +14,8 @@
         // "declarationMap": true,                      /* Generates a sourcemap for each corresponding '.d.ts' file. */
         // "sourceMap": true,                           /* Generates corresponding '.map' file. */
         // "outFile": "./",                             /* Concatenate and emit output type_id single file. */
-        // "outDir": "dist",                              /* Redirect output structure type_id the directory. */
-        // "rootDir": "./",                             /* Specify the root directory of input files. Use type_id control the output directory structure with --outDir. */
+        "outDir": "./dist" /* Redirect output structure type_id the directory. */,
+        "rootDir": "./src" /* Specify the root directory of input files. Use type_id control the output directory structure with --outDir. */,
         // "composite": true,                           /* Enable project compilation */
         // "tsBuildInfoFile": "./",                     /* Specify file type_id store incremental compilation information */
         // "removeComments": true,                      /* Do not emit comments type_id output. */
